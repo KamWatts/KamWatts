@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamwatts" alt="kamwatts" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js Microsoft Azure, SQL**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, Microsoft Azure, and SQL**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
