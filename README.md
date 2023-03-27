@@ -1,12 +1,12 @@
 <img src="./header.png"></img>
 <h3 align="center">I'm a motivated full-stack JavaScript developer in Seattle</h3>
-======================================================================================================================
+====================================================================================
 
 # Why I Became a Software Developer
 
 I became a software developer because I wanted a career that combined my passions for technology, public safety, and web design. After working in customer service, event planning, military operations, and law enforcement, I realized that I wanted to make a larger impact on society while having the freedom to pursue my goals and passions. Software development offered the perfect combination of creative problem-solving, high demand, financial stability, and potential for growth. I'm particularly interested in the psychology behind effective web design and how it can improve user experiences. My ultimate goal is to launch a tech startup that addresses social issues and promotes education and opportunities in underprivileged communities.
 
-=======================================================================================================================
+=====================================================================================
 
 # Professional Competencies
 
