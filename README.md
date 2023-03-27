@@ -1,4 +1,4 @@
-<img>header.png</img>
+<img src="./header.png"></img>
 <h3 align="center">I'm a motivated full-stack JavaScript developer in Seattle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamwatts&label=Profile%20views&color=0e75b6&style=flat" alt="kamwatts" /> </p>
