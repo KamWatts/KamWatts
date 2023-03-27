@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamwatts&label=Profile%20views&color=0e75b6&style=flat" alt="kamwatts" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamwatts" alt="kamwatts" /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=merko)
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, Microsoft Azure, and SQL**
 
