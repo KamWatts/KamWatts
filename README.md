@@ -1,4 +1,4 @@
-<img src="./header.png"></img>
+<img src="./banner.png"></img>
 <h3 align="center">I'm a motivated full-stack JavaScript developer in Seattle</h3>
 
 # Why I Became a Software Developer
