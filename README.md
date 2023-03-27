@@ -15,8 +15,6 @@ Flexibility/Adaptability: In today's fast-paced and constantly changing work env
 
 Overall, I believe that my competencies in teamwork, communication, and flexibility/adaptability, developed through my previous experiences in customer service and law enforcement, have prepared me well for a career in software development. I'm confident that I can apply these skills to any project or team and contribute to the success of the organization.
 
-==================================================================================================================================================================
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamwatts&label=Profile%20views&color=0e75b6&style=flat" alt="kamwatts" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=merko)
