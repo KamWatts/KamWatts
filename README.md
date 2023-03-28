@@ -5,6 +5,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kameron-watts-5ba97524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kameron-watts-5ba97524a/" height="30" width="40" /></a>
 <a href="https://instagram.com/@kamthecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kamthecoder" height="30" width="40" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamwatts&label=Profile%20views&color=0e75b6&style=flat" alt="kamwatts" /> </p>
 
 # Why I Became a Software Developer
 
@@ -20,30 +21,75 @@ I became a software developer because I wanted a career that combined my passion
 
 Overall, I believe that my competencies in teamwork, communication, and flexibility/adaptability, developed through my previous experiences in customer service and law enforcement, have prepared me well for a career in software development. I'm confident that I can apply these skills to any project or team and contribute to the success of the organization.
 
-## Favorite Coding Podcasts
+## My Developer Lifecycle
+
+### How active Am I?
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=merko)
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+---
+
+* ### Non-Technial Experience
+
+  * State Trooper - 5.5 Years
+
+    * Comunication, interpersonal awareness, critical thinking, problem-solving, attention-to-detail, technical, ethical decision-making, cultural competence, continuous learning
+
+  * Forward Observer - 6 Years
+
+    * Tactical expertise, physical fitness, situational awareness, leadership, team-building, technical proficiency, field expedient innovation, planning, flexibility in ever-changing plans
+
+  * Event Planning - 3 Years
+
+    * Organization, negotiation, flexibility, adaptability, creativity, budegeting, time management, problem-solving, communication
+
+---
+
+### 🌱 I’m currently learning
+
+* AWS Cloud
+* Data Structures and Algorithms
+* Material UI
+* SQL
+
+### 💬 Ask me about
+
+**CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, and Codewars**
+
+---
+
+### 📫 How to reach me
+
+**kam.watts@gmail.com**
+
+---
+### * ⚡ Fun facts
+
+* I am a wine connoisseur 🍷
+* I am a cinematic street photographer
+* I moved to Alaska for one year just for the adventure
+
+---
+### 📡 Most used Discord Servers
+
+* [Error 404](https://discord.gg/WaCNm6Nj)
+* [Dear Junior Dev](https://discord.gg/BpG3h9wY)
+* [Code Society](https://discord.gg/code-society-823178343943897088)
+
+---
+### 📻 Favorite Coding Podcasts
 
 * [Code Newbie](https://www.codenewbie.org/)
 * [Learn To Code With Me](https://learntocodewith.me/)
 * [Syntax](https://syntax.fm/)
 * [CSS Podcast](https://pod.link/thecsspodcast)
-## My Developer Lifecycle
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=merko)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-* 🌱 I’m currently learning **React.js, Node.js, Express.js, Microsoft Azure, and SQL**
-
-* 💬 Ask me about **HTML, CSS, JavaScript**
-
-* 📫 How to reach me **kam.watts@gmail.com**
-
-* ⚡ Fun facts:
-  * **I am a wine connoisseur 🍷**
-  * I am a cinematic street photographer
-  * I moved to Alaska for one year just for the adventure
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamwatts&label=Profile%20views&color=0e75b6&style=flat" alt="kamwatts" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamwatts&" alt="kamwatts" /></p>
