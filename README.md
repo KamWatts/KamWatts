@@ -23,9 +23,9 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 
 ## My Developer Lifecycle
 
-### How active Am I?
+### <p align="center"> How active Am I?</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=merko)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KamWatts&show_icons=true&theme=gruvbox_light"/></p>
 
 ---
 
@@ -51,24 +51,25 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 
 ---
 
-### 🌱 I’m currently learning
+* ### 🌱 I’m currently learning
 
-* AWS Cloud
-* Data Structures and Algorithms
-* Material UI
-* SQL
+  * AWS Cloud
+  * Data Structures and Algorithms
+  * Material UI
+  * SQL
 
-### 💬 Ask me about
+* ### 💬 Ask me about
 
-**CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, and Codewars**
+  * **CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, and Codewars**
+
+---
+
+* ### 📫 How to reach me
+
+  * **kam.watts@gmail.com**
 
 ---
 
-### 📫 How to reach me
-
-**kam.watts@gmail.com**
-
----
 ### * ⚡ Fun facts
 
 * I am a wine connoisseur 🍷
@@ -76,6 +77,7 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 * I moved to Alaska for one year just for the adventure
 
 ---
+
 ### 📡 Most used Discord Servers
 
 * [Error 404](https://discord.gg/WaCNm6Nj)
@@ -83,6 +85,7 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 * [Code Society](https://discord.gg/code-society-823178343943897088)
 
 ---
+
 ### 📻 Favorite Coding Podcasts
 
 * [Code Newbie](https://www.codenewbie.org/)
@@ -92,4 +95,4 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 
 ---
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamwatts&" alt="kamwatts" /></p>
+<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamwatts&theme=codeSTACKr" alt="kamwatts" /></p>
