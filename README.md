@@ -92,4 +92,4 @@ Overall, I believe that my competencies in teamwork, communication, and flexibil
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamwatts&" alt="kamwatts" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamwatts&" alt="kamwatts" /></p>
